@@ -1,0 +1,2 @@
+The 50 smallest element is:
+52.0497286078393
